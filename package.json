@@ -2,7 +2,7 @@
   "name": "hogebot",
   "version": "0.0.0",
   "private": true,
-  "author": "TumoiYorozu <morojuyi@gmail.com>",
+  "author": "TumoiYorozu",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.18.0",
